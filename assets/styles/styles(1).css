@@ -494,10 +494,10 @@ color:#ee7202;
   padding-top: 15px;
 }
 /*header*/
-/*url('../images/theme/paper-bg2.png')*/
-/*url('../images/theme/paper-bg-bot.png')*/
+/**/
+/**/
 .resume-container {
-  background:  no-repeat top left,  no-repeat bottom right, #fafafa;
+  background:  url('../images/theme/paper-bg2.png') no-repeat top left, url('../images/theme/paper-bg-bot.png') no-repeat bottom right, #fafafa;
 }
 /* ==========================================================
 ! 7. Profile intro
