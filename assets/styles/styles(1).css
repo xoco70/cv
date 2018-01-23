@@ -568,10 +568,20 @@ color:#ee7202;
   background: url('../images/theme/progress-point.png') center center;
   background-size: 400px 500px;
 }
+.timeline-udelp {
+  background: url('../images/theme/progress-education3.png') no-repeat center center;
+  background-size: 400px 500px;
+}
+
 .timeline-education {
   background: url('../images/theme/progress-education4.png') no-repeat center center;
   background-size: 400px 500px;
 }
+.timeline-t4b {
+  background: url('../images/theme/progress-work2.png') no-repeat center center;
+  /*background-size: 400px 500px;*/
+}
+
 .timeline-work {
   background: url('../images/theme/progress-work3.png') no-repeat center center;
   background-size: 400px 500px;
