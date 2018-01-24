@@ -581,7 +581,9 @@ color:#ee7202;
   background: url('../images/theme/progress-work2.png') no-repeat center center;
   /*background-size: 400px 500px;*/
 }
-
+ .ml-15{
+   margin-left:15px;
+ }
 .timeline-work {
   background: url('../images/theme/progress-work3.png') no-repeat center center;
   background-size: 400px 500px;
