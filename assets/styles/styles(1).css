@@ -570,7 +570,7 @@ color:#ee7202;
 }
 .timeline-udelp {
   background: url('../images/theme/progress-education3.png') no-repeat center center;
-  background-size: 400px 500px;
+  background-size: 400px;
 }
 
 .timeline-education {
@@ -587,8 +587,8 @@ color:#ee7202;
   background-size: 400px 500px;
 }
 .timeline-mail {
-  background: url('../images/theme/progress-mail3.png') no-repeat center center;
-  background-size: 400px 500px;
+  background: url('../images/theme/progress-mail2.png') no-repeat center center;
+  background-size: 400px ;
 }
 .timeline-title {
   background: url('../images/theme/progress-section-title3.png') no-repeat center center;
