@@ -586,6 +586,28 @@ color:#ee7202;
   background: url('../images/theme/progress-work3.png') no-repeat center center;
   background-size: 400px 500px;
 }
+.timeline-coffee {
+  background: url('../images/theme/progress-coffee.png') no-repeat center center;
+  background-size: 400px 500px;
+}
+.timeline-card {
+  background: url('../images/theme/progress-card.png') no-repeat center center;
+  background-size: 400px 500px;
+}
+.timeline-plane {
+  background: url('../images/theme/progress-plane.png') no-repeat center center;
+  background-size: 400px 500px;
+}
+
+.timeline-bank {
+  background: url('../images/theme/progress-bank.png') no-repeat center center;
+  background-size: 400px 500px;
+}
+
+.timeline-github {
+  background: url('../images/theme/progress-github.png') no-repeat center center;
+  background-size: 400px 500px;
+}
 .timeline-mail {
   background: url('../images/theme/progress-mail2.png') no-repeat center center;
   background-size: 400px ;
